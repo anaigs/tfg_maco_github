@@ -1,6 +1,6 @@
 # Trabajo de Fin de Grado
 ## Matemáticas Computacionales
-### Análisis de Series Temporales Para la Predicción de Resultados en Plataformas de Apuestas
+### MODELADO ESTADÍSTICO DE RESULTADOS DE FÚTBOL MEDIANTE DISTRIBUCIÓN DE POISSON: APLICACIÓN PRÁCTICA AL MERCADO DE APUESTAS DEPORTIVAS
 
 CONVOCATORIA: EXTRAORDINARIA
 
